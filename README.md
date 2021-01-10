@@ -1,6 +1,6 @@
-#Template Symfony 5 to Start Project
+# Template Symfony 5 to Start Project
 
-##Description
+## Description
 This repository is a Symfony Template structure from scratch.
 
 It uses **Webpack Encore**, **Yarn**, **Bootstrap** and **Copyright Images** in webpack.config.js
@@ -9,14 +9,14 @@ It uses **Webpack Encore**, **Yarn**, **Bootstrap** and **Copyright Images** in 
 1. PHP 7.4 and Symfony 5.2
 2. Check if composer is installed
 
-##Install
+## Install
 1. Clone this project
 2. Create `.env.local` from `.env` and update informations for database and mailer
 3. Run `composer install`
 4. Run `yarn install`
 
-##Working
+## Working
 Run `php bin/console server:start -d` to launch your local php web server
 Run `yarn run dev --watch` to launch your local server for assets
 
-###Here we go !!!
+### Here we go !!!
