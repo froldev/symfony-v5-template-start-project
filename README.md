@@ -5,7 +5,7 @@ This repository is a Symfony Template structure from scratch.
 
 It uses **Webpack Encore**, **Yarn**, **Bootstrap** and **Copyright Images** in webpack.config.js
 
-##Prerequisites
+## Prerequisites
 1. PHP 7.4 and Symfony 5.2
 2. Check if composer is installed
 
